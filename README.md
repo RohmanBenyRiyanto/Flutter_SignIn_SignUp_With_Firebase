@@ -1,17 +1,17 @@
-# autentic_apps
+# email_password_flutter_firebase
+Email and Password Authentication In Flutter &amp; Firebase in Flutter 2.2
 
-A new Flutter project.
+## Overview
+This email and password authentication is implemented with many functions like,show hide password,checkbox,fluttertoast library,cloud firestore.
 
-## Getting Started
+## [Get Design](https://www.figma.com/file/jX2o61GSNLwmpr6zzsaCep/Untitled?node-id=0%3A1)
 
-This project is a starting point for a Flutter application.
+<img src="https://user-images.githubusercontent.com/72520643/142641373-4e5df0fc-93cf-4cfe-8f60-c4ba48869a44.png" width="700">
 
-A few resources to get you started if this is your first Flutter project:
+### Preview Apps
+<img src="https://user-images.githubusercontent.com/72520643/142641600-e4795e45-ab97-4fc9-be3c-a067478f4f5b.gif" width="300">
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
+## Notes
+For help getting started with Flutter, see
 [online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Flutter_SignIn_SignUp_With_Firebase
+samples, mobile development guide, and full API reference.
